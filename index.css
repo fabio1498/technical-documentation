@@ -317,3 +317,19 @@ footer div {
 #twitter img {
   border-radius: 30px;
 }
+.linkedin img {
+  border-radius: 30px;
+}
+.linkedin {
+  background: linear-gradient(270deg, #1f50d8, #1631ad);
+  background-size: 600% 600%;
+  border-radius: 30px;
+  width: 210px;
+  box-shadow: 5px 10px 18px #222222;
+  animation: cgcolors 4s ease-in-out infinite;
+}
+.linkedin a {
+  text-decoration: none;
+  color: white;
+  text-transform: uppercase;
+}
